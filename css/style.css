@@ -1,3 +1,6 @@
 body {
-
+@keyframes meny {
+    0% { left: 0px; }
+    100% { left: 200px; }
+}
 }
