@@ -5,12 +5,17 @@ body.Main{
 MainTXT{
 text-align: center;
   color: red;
-  MainTXT.h1{
-    background-color: brown;
-  };
 }
 
+MainTXT.h1{
+  background-color: brown;
+};
 
+div.Categories{
+
+background-color: brown;
+
+}
 
 button.ButtonMain{
 
