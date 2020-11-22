@@ -8,20 +8,6 @@ text-align: center;
   text-wihte:700;
 }
 
-button.One{
-
-align-self: flex-start;
-
-}
-
-button.Two{
-align-self: center;
-}
-
-button.Three{
-align-self: flex-end;
-}
-
 button.ButtonMain{
 
   text-decoration: none;
