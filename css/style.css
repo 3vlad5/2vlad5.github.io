@@ -3,9 +3,16 @@ body.Main{
 }
 
 div.Categories{
-  items.button.One{
+ items.button.One{
     align-items: flex-start;
   }
+  items.button.Two{
+    align-items:center;
+  }
+  items.button.Three{
+    align-items:flex-end;
+  }
+
 }
 
 MainTXT{
