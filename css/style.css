@@ -5,6 +5,7 @@ body.Main{
 MainTXT{
 text-align: center;
   color: red;
+  background: black;
 }
 
 div.Categories{
