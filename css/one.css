@@ -3,13 +3,14 @@ body{
 }
 TerrorismOpr {
   text-indent: 25px;
-  background: deepskyblue;
 }
 TerroristigeskyaOrgOpr{
  text-indent: 25px;
- background: deepskyblue;
 }
 SectaOpr {
  text-indent: 25px;
- background: deepskyblue;
+}
+
+p{
+  background: deepskyblue;
 }
