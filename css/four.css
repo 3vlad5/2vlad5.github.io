@@ -2,7 +2,7 @@ body{
   background:black;
 }
 
-MainTXT p{
+MainTXT p h1{
   text-align: center;
   color: red;
   background:red;
