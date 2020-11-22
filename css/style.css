@@ -5,8 +5,6 @@ text-align: center;
 }
 button.ButtonMain{
 
-  text-align: center;
-
   text-decoration: none;
   color: red;
   text-transform: uppercase;
@@ -21,7 +19,7 @@ button.ButtonMain{
 
   padding-top: 8px;
   padding-bottom: 8px;
-  padding-left: 23px;
+  padding-left: 500px;
   padding-right: 23px;
 
   margin-bottom: 13px;
