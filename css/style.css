@@ -5,12 +5,12 @@ body.Main{
 MainTXT{
 text-align: center;
   color: red;
-  background: black;
+  background-color: brown;
 }
 
 div.Categories{
 
-background-color:black;
+background-color: brown;
 
 }
 
