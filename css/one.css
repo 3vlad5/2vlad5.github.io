@@ -21,3 +21,11 @@ SectaOpr {
 SectaOpr p{
  background: deepskyblue;
 }
+
+h1 h1{
+background: deepskyblue;
+}
+
+p h1{
+background: deepskyblue;
+}
