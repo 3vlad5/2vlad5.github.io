@@ -22,10 +22,10 @@ SectaOpr p{
  background: deepskyblue;
 }
 
-h1 h1{
+h1.DOWN{
 background: deepskyblue;
 }
 
-p h1{
+p.DOWN{
 background: deepskyblue;
 }
