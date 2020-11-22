@@ -7,8 +7,8 @@ erroristigeskyaOrgOpr{
 SectaOpr {
  text-indent: 25px;
 }
-.button{
-
+button.ButtonMain{
+  front-weight: 700;
   text-decoration: none;
   color: white;
   text-transform: uppercase;
@@ -31,6 +31,6 @@ SectaOpr {
   transition: 0,2s ease-out;
 
 }
-a.ButtonMain:hover{
+button.ButtonMain:hover{
   color: #FFE400;
 }
