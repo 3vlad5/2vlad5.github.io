@@ -2,10 +2,16 @@
 html{
 color:black
 }
+
+div.Categories{
+  align-items: center;
+}
+
 MainTXT{
 text-align: center;
   color: red;
 }
+
 button.ButtonMain{
 
   text-decoration: none;
@@ -32,6 +38,7 @@ button.ButtonMain{
   transition: 0,2s ease-out;
 
 }
+
 button.ButtonMain:hover{
   color: #FFE400;
 }
