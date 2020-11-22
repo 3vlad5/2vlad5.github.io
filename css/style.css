@@ -7,6 +7,10 @@ text-align: center;
   color: red;
 }
 
+MainTXT h1{
+background: brown;
+}
+
 div.Categories{
   background: brown;
 }
