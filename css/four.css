@@ -1,8 +1,12 @@
 body{
-  background-image: url();
+  background:black;
 }
 
 MainTXT p{
   text-align: center;
   color: red;
+  background:red;
+}
+p.One{
+  background:orange;
 }
