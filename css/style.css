@@ -9,6 +9,8 @@ SectaOpr {
 }
 button.ButtonMain{
 
+  background-position: center;
+
   text-decoration: none;
   color: red;
   text-transform: uppercase;
