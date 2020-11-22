@@ -8,9 +8,9 @@ SectaOpr {
  text-indent: 25px;
 }
 button.ButtonMain{
-  front-weight: 700;
+
   text-decoration: none;
-  color: white;
+  color: red;
   text-transform: uppercase;
   letter-spacing: 1.16px;
 
