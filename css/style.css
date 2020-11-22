@@ -1,5 +1,5 @@
 body.Main{
-  background-image: image=(SyteImage/Bacgraund.jpg);
+  background-image: image(SyteImage/Bacgraund.jpg);
 }
 
 MainTXT{
