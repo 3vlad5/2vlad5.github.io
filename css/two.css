@@ -6,7 +6,10 @@ MainTXT{
 text-align: center;
   color: red;
 }
+MainTXT p{
+background: brown;
+}
 
 p.History{
-  background-color: yelow;
+  background-color: yellow;
 }
