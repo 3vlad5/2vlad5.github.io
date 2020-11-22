@@ -4,21 +4,12 @@ body{
 TerrorismOpr {
   text-indent: 25px;
 }
-TerrorismOpr/p{
-    background: deepskyblue;
-}
 
 TerroristigeskyaOrgOpr{
  text-indent: 25px;
  background: deepskyblue;
 }
-TerroristigeskyaOrgOpr/p{
-    background: deepskyblue;
-}
 
 SectaOpr {
  text-indent: 25px;
-}
-SectaOpr/p{
-    background: deepskyblue;
 }
