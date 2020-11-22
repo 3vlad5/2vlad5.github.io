@@ -2,22 +2,25 @@ body.Main{
   background-color:black
 }
 
-div.Categories{
- items.button.One{
-    align-items: flex-start;
-  }
-  items.button.Two{
-    align-items:center;
-  }
-  items.button.Three{
-    align-items:flex-end;
-  }
 
-}
 
 MainTXT{
 text-align: center;
   color: red;
+}
+
+button.One{
+
+align-self: flex-start;
+
+}
+
+button.Two{
+align-self: center;
+}
+
+button.Three{
+align-self: flex-end;
 }
 
 button.ButtonMain{
