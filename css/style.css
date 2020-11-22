@@ -1,5 +1,5 @@
 MainTXT{
-  align-items: center;
+text-align: center;
   color: red;
 }
 TerrorismOpr {
@@ -13,7 +13,7 @@ SectaOpr {
 }
 button.ButtonMain{
 
-  align-content: center;
+  text-align: center;
 
   text-decoration: none;
   color: red;
