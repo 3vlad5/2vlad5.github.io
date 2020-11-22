@@ -9,7 +9,7 @@ SectaOpr {
 }
 button.ButtonMain{
 
-  background-position: center;
+  align-content: center;
 
   text-decoration: none;
   color: red;
