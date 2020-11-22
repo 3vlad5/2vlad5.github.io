@@ -3,7 +3,9 @@ body.Main{
 }
 
 div.Categories{
-  position: sticky;
+  items.button.One{
+    align-items: flex-start;
+  }
 }
 
 MainTXT{
