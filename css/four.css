@@ -2,9 +2,8 @@ body{
   background:black;
 }
 
-MainTXT p h1{
+MainTXT h1{
   text-align: center;
-  color: red;
   background:red;
 }
 p.One{
