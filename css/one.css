@@ -5,14 +5,20 @@ TerrorismOpr {
   text-indent: 25px;
   background: deepskyblue;
 }
+TerrorismOpr p{
+ background: deepskyblue;
+}
 
 TerroristigeskyaOrgOpr{
  text-indent: 25px;
+}
+TerroristigeskyaOrgOpr p{
+ background: deepskyblue;
 }
 
 SectaOpr {
  text-indent: 25px;
 }
-SectaOpr/ {
+SectaOpr p{
  background: deepskyblue;
 }
