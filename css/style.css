@@ -3,7 +3,7 @@ body.Main{
 }
 
 div.Categories{
-  align-content: center;
+  position: sticky;
 }
 
 MainTXT{
