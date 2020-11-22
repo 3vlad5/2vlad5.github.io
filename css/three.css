@@ -1,0 +1,12 @@
+body{
+  background-image: url(http://christianskaya-vera.ru/upload/iblock/d94/d94dfe8933449e56d197859154f09c82.jpg);
+}
+
+p h1{
+  background:red;
+  text-align: center;
+}
+p{
+  background:orange;
+  text-align: center;
+}
