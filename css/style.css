@@ -9,10 +9,10 @@ div.Main h1{
 text-align: center;
 color: red;
 }
-MainText h{
+div.MainText h{
 color: red;
 }
-MainText {
+div.MainText {
 text-align:-webkit-center;
 }
 
