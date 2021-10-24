@@ -10,7 +10,7 @@ text-align: center;
 color: red;
 }
 div.MainText h{
-text-align: center;
+text-align:-webkit-center;
 color: red;
 }
 
