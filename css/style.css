@@ -55,6 +55,16 @@ text-align:-webkit-center;
 @media (max-width:690px) {    
     .pouring {font-size: 20px;}    
 }
+
+
+
+body {
+  font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin: 0;
+  font-size: 13px;
+  text-align: center;
+  background: #2196F3;
+}
 ul {
   text-align: left;
   display: inline;
