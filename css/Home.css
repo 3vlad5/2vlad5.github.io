@@ -1,1 +1,6 @@
-
+.MainText h{
+color: red;
+}
+.MainText {
+text-align:-webkit-center;
+}
