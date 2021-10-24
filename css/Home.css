@@ -1,5 +1,7 @@
-.MainText h{
+.MainText h1{
 color: red;
+}
+MainText{
 text-align:-webkit-center;
 padding-top: 900px;
 }
