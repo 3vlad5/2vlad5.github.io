@@ -8,6 +8,7 @@ color: red;
 color: red;
 }
 .MainText{
+text-transform:capitalize;
 text-align:-webkit-center;
 padding-top: 350px;
 }
