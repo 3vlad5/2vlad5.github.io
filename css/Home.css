@@ -2,13 +2,13 @@ body{
   background-color: black;
 }
 .MainText h1{
+text-transform:capitalize;
 color: red;
 }
 .MainText h{
 color: red;
 }
 .MainText{
-text-transform:capitalize;
 text-align:-webkit-center;
 padding-top: 350px;
 }
