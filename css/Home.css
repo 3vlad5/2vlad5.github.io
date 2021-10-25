@@ -2,6 +2,7 @@ body{
   background-color: black;
 }
 .MainText h1{
+font-family:Verdana, Helvetica, Arial, sans-serif;
 color: red;
 }
 .MainText h{
