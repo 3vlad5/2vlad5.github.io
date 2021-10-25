@@ -6,10 +6,9 @@ text-transform:capitalize;
 color: red;
 }
 .MainText h{
-world-break:break-all;
 color: red;
 }
 .MainText{
-text-align:end;
+text-align:-webkit-center;
 padding-top: 350px;
 }
