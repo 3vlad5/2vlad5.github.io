@@ -10,6 +10,6 @@ world-break:break-all;
 color: red;
 }
 .MainText{
-text-align:-webkit-center;
+text-align:end;
 padding-top: 350px;
 }
